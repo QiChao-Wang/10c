@@ -3,3 +3,11 @@ public class Hello{
     System.out.println("Hello World");
   }
 }
+class World{
+	System.out.println("Oracle");
+}
+	
+
+
+
+
